@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+h1{
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+
+body{
+    background-color:#28CC9E;
+    color: white;
+    font-size: 14px;
+}
+h1{
+    color: whitesmoke;
+}
+p{
+    font-size: 14px;
+}
+.button{
+    display: block;
+    cursor: pointer;
+    width: 160px;
+    text-align: center;
+    border: 1px solid white;
+}
+
